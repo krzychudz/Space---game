@@ -1,0 +1,7 @@
+gra1 250
+gra2 500
+gra3 350
+krzychu 4800
+gra5 4050
+ddas 50
+lala 50
